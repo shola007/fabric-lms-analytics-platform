@@ -146,6 +146,18 @@ This project demonstrates how a modern analytics platform can improve reporting 
 
 The solution supports scalable reporting for student performance, course completion, engagement, and learning outcomes.
 
+Business Value
+
+• Automated LMS data ingestion and transformation
+
+• Reduced manual reporting effort through automated pipeline execution
+
+• Created reusable semantic model for self-service analytics
+
+• Implemented Dev-to-Prod deployment process
+
+• Enabled stakeholder reporting through Power BI dashboards
+
 ---
 
 ## Future Enhancements
